@@ -9,7 +9,7 @@ export default function(){
           <Text style={styles.topBtn_title}>Artan Fiyat</Text>
         </TouchableOpacity>
         <TouchableOpacity style = {styles.topBtn}>
-          <Text style={styles.topBtn_title}>Azalan  Fiyat</Text>
+          <Text style={styles.topBtn_title}>Azalan Fiyat</Text>
         </TouchableOpacity>
         <TouchableOpacity style = {styles.topBtn}>
           <Text style={styles.topBtn_title}>Tarih</Text>
